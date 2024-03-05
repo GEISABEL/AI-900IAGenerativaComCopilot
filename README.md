@@ -1,6 +1,6 @@
 ## Explorando os Recursos de IA Generativa com Copilot
 
-  A pasta [INPUTS](https://github.com/GEISABEL/AI-900IAGenerativaComCopilot/commit/b93e608dfd3179e74d5799566c84eea0c7922389) consta as imagens adicionadas para o reconhecimento de texto com a utilização do [Copilot](https://copilot.microsoft.com/).
+  A pasta [*INPUTS*](https://github.com/GEISABEL/AI-900IAGenerativaComCopilot/commit/b93e608dfd3179e74d5799566c84eea0c7922389) consta as imagens adicionadas para o reconhecimento de texto com a utilização do [Copilot](https://copilot.microsoft.com/).
 
 **Imagem I**
 
@@ -11,7 +11,7 @@
 ![image](https://github.com/GEISABEL/AI-900IAGenerativaComCopilot/assets/110138843/eb506fab-6519-4624-8cbc-19dccf67dc1c)
 
 
- A Pasta [OUTPUT](https://github.com/GEISABEL/AI-900IAGenerativaComCopilot/commit/c165aa1817f7b28b5a7640bd7f59443f29cf0ec3) os resultados do reconhecimento de texto das imagens.
+ A Pasta [*OUTPUT*](https://github.com/GEISABEL/AI-900IAGenerativaComCopilot/commit/c165aa1817f7b28b5a7640bd7f59443f29cf0ec3) os resultados do reconhecimento de texto das imagens.
 
 **Resultado I**
 
